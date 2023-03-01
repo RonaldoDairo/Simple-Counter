@@ -9,7 +9,7 @@ import { SecondsCounter } from "./contador.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center" style={{fontSize:'2rem', color: 'black'}}>
+		<div className="text-center" >
 				<SecondsCounter></SecondsCounter>
 				
 		</div>
